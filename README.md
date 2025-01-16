@@ -5,6 +5,12 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pawan-poudel-github.pawan-poudel-github&"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://facebook.com/itspawanpoudel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
@@ -18,13 +24,7 @@
 
 ###
 
-<h1 align="center">Namaste 🙏</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pawan-poudel-github.pawan-poudel-github&"  />
-</div>
+<h2 align="center">Namaste  there🙏</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a full stack developer from 🇳🇵.<br>🔨 Currently working independently.<br>💻 Working with the MERN stack.<br>♟️ Enjoy playing chess.</p>
+<p align="left">👨‍💻 Full Stack Developer from 🇳🇵 Nepal  <br>🔨 Working independently on web development projects.  <br>💻 Skilled in PERN/MERN stack for building modern apps.  <br>♟️ Love playing chess in my free time.</p>
 
 ###
 
@@ -59,9 +59,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
