@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">👨‍💻 Full Stack Developer from 🇳🇵 Nepal  <br>🔨 Working independently on web development projects.  <br>💻 Skilled in PERN/MERN stack for building modern apps.  <br>♟️ Love playing chess in my free time.</p>
+<p align="left">👨‍💻 Full Stack Developer from 🇳🇵 <br>🔨 Working independently on web development projects.  <br>💻 Skilled in PERN/MERN stack for building modern apps.  <br>♟️ Love playing chess in my free time.</p>
 
 ###
 
