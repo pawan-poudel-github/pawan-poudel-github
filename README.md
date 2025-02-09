@@ -74,16 +74,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pawan-poudel-github&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/pawan-poudel-github/pawan-poudel-github/output/snake.svg" alt="Snake animation" />
 
 ###
