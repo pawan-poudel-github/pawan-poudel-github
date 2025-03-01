@@ -11,14 +11,8 @@
 ###
 
 <div align="center">
-  <a href="https://facebook.com/itspawanpoudel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://discord.com/users/836805731033284699" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://wa.link/zlmmy0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="mailto:mail@pawan-poudel.com.np" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=mail@pawan-poudel.com.np&logo=gmail&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail"  />
   </a>
 </div>
 
